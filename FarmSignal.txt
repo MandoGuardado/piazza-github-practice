@@ -2,4 +2,8 @@ Alan Constantino
 Irmuun Zamilan
 Stanley Leem
 Jonathan Salcedo Manriquez
+<<<<<<< HEAD
 Armando Guardado
+=======
+Javier Barrera
+>>>>>>> ff4f86a2e2b21d2b7d6d439888bfe950636aed00
